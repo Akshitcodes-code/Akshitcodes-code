@@ -68,6 +68,9 @@ Build AI products that actually ship
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akshitcodes-code&theme=tokyonight" alt="Profile details" />
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Akshitcodes-code/Akshitcodes-code/main/koi/koi.gif" width="256" alt="My GitHub koi" />
+</p>
 
 ## 📈 Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshitcodes-code&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" width="100%"/>
