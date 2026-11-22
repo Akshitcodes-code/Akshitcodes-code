@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=88EEAA&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Learning+DSA+in+C%2B%2B;Building+things%2C+from+code+to+circuits" />
+</p>
+
 # 💫 About Me:
 🔭 I'm currently working on AI development projects, including a semantic search engine for short-form video 🎬<br>👯 I'm looking to collaborate on open-source AI/ML projects 🤖<br>🤝 I'm looking for help with getting started in open source contributions and electronics 🔌<br>🌱 I'm currently learning Data Structures & Algorithms in C++, web development, and the basics of electronics ⚙️<br>💬 Ask me about Python, AI/Data Science, or how to start your first year in tech 🐍<br>⚡ Fun fact: I'm a first-year AI & Data Science student who loves building things, from code to circuits! 💡
 
