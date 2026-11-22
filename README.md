@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:88EEAA,100:1a1a1d&height=160&section=header&text=Hi%2C%20I'm%20Ayush&fontSize=36&fontColor=ffffff" width="100%"/>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=88EEAA&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Learning+DSA+in+C%2B%2B;Building+things%2C+from+code+to+circuits" />
 </p>
